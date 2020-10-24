@@ -1,0 +1,11 @@
+server:
+  port: 6060
+
+spring:
+  jdbc:
+    datasource:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql:///springboot
+      username: root
+      password: dev
+
